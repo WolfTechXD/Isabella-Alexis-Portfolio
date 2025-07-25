@@ -91,7 +91,11 @@ function App() {
             </p>
             <div className="flex flex-col gap-4 justify-center items-center">
               <p className="text-lg text-gray-600">Let's connect and build something amazing together!</p>
+<<<<<<< HEAD
               <h3 className="text-3xl font-bold text-center mb-12 text-purple-800">My Resume</h3>
+=======
+              <p className="text-lg text-purple-600 font-semibold">isabellaalexis.g.mccollum@gmail.com</p>
+>>>>>>> 5dd68477 (Initial commit of correct website)
               <div className="flex gap-4 flex-wrap justify-center">
                 <Button 
                   size="lg" 
